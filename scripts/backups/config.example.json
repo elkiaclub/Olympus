@@ -1,0 +1,16 @@
+{
+  "local":"/remote",
+  "remote":"/",
+  "host":"example.com",
+  "port":21,
+  "user":"root",
+  "pass":"password",
+  "secure": false,
+  "ignore":[
+    ".bash_logout", ".bash_profile", ".bashrc"
+  ],
+  "bot": {
+    "token": "<discord bot token>",
+    "channel": "<channel id where to post>"
+  }
+}

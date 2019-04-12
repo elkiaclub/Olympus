@@ -1,0 +1,21 @@
+{
+  "name": "backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elkia.js",
+  "dependencies": {
+    "basic-ftp": "^3.4.4",
+    "discord.js": "^11.4.2",
+    "ftps": "^1.1.1",
+    "moment": "^2.24.0",
+    "pretty-bytes": "^5.1.0",
+    "standard": "^12.0.1",
+    "standardjs": "^1.0.0-alpha"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
